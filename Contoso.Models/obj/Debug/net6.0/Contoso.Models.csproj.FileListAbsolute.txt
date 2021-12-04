@@ -1,0 +1,13 @@
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\bin\Debug\net6.0\Contoso.Models.deps.json
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\bin\Debug\net6.0\Contoso.Models.runtimeconfig.json
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\bin\Debug\net6.0\Contoso.Models.dll
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\bin\Debug\net6.0\ref\Contoso.Models.dll
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\bin\Debug\net6.0\Contoso.Models.pdb
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.AssemblyInfoInputs.cache
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.AssemblyInfo.cs
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.csproj.CoreCompileInputs.cache
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.dll
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\ref\Contoso.Models.dll
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.pdb
+D:\000Cenfotec\repo\Contoso\Contoso\Contoso.Models\obj\Debug\net6.0\Contoso.Models.genruntimeconfig.cache

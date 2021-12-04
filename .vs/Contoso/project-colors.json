@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe7ef89a-918d-42b2-89d9-3dd57cc4abd2": {
+      "ProjectGuid": "fe7ef89a-918d-42b2-89d9-3dd57cc4abd2",
+      "DisplayName": "ContosoAPI",
+      "ColorIndex": 0
+    },
+    "8e34c830-557f-44bf-89b7-717cb3fde2fa": {
+      "ProjectGuid": "8e34c830-557f-44bf-89b7-717cb3fde2fa",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "9f73e2d7-5394-447c-a291-f19f276d83b3": {
+      "ProjectGuid": "9f73e2d7-5394-447c-a291-f19f276d83b3",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "8efdd4de-227a-425c-bcde-d9aa7bd6bbf7": {
+      "ProjectGuid": "8efdd4de-227a-425c-bcde-d9aa7bd6bbf7",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 3
+    },
+    "389fa844-2c90-4e30-a85a-6312eeb7a978": {
+      "ProjectGuid": "389fa844-2c90-4e30-a85a-6312eeb7a978",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 4
+    },
+    "183baf7b-e93d-4e90-beb1-176011b86eff": {
+      "ProjectGuid": "183baf7b-e93d-4e90-beb1-176011b86eff",
+      "DisplayName": "CustomersAPI",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "be22cb35-dbe1-495d-b710-bb059cc700ad": {
+      "ProjectGuid": "be22cb35-dbe1-495d-b710-bb059cc700ad",
+      "DisplayName": "Contoso.Models",
+      "ColorIndex": 6
+    },
+    "db352da4-a67f-4f39-9bb8-23c8b6e382ac": {
+      "ProjectGuid": "db352da4-a67f-4f39-9bb8-23c8b6e382ac",
+      "DisplayName": "ContosoAPIxx",
+      "ColorIndex": 7
+    },
+    "c27928b2-0f32-4604-9156-7dc3ce613a8d": {
+      "ProjectGuid": "c27928b2-0f32-4604-9156-7dc3ce613a8d",
+      "DisplayName": "ContosoAPI",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
